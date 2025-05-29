@@ -1,8 +1,8 @@
 # RL-Profiler
 
-This repository contains the code accompanying the paper **"Prompt-based Personality Profiling: Reinforcement Learning for Relevance Filtering"**.
+This repository contains the code accompanying the paper **"Prompt-based Personality Profiling: Reinforcement Learning for Relevance Filtering"** (accepted for the REALM workshop at the ACL 2025).
 
-(Accepted for the REALM workshop at the ACL 2025)
+
 
 ## Environment Setup
 To reproduce the results, we recommend using `conda` for environment management.
